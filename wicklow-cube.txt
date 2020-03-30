@@ -2,7 +2,6 @@
 1 Azorius Signet
 1 Basilisk Collar
 1 Birthing Pod
-1 Black Vise
 1 Boros Signet
 1 Chromatic Lantern
 1 Crystal Shard
@@ -14,7 +13,6 @@
 1 Grindstone
 1 Gruul Signet
 1 Hedron Archive
-1 Icy Manipulator
 1 Isochron Scepter
 1 Izzet Signet
 1 Mind Stone
@@ -27,7 +25,6 @@
 1 Skullclamp
 1 Smuggler's Copter
 1 Star Compass
-1 The Rack
 1 Umezawa's Jitte
 1 Acidic Slime
 1 Adeliz, the Cinder Wind
@@ -42,14 +39,11 @@
 1 Arcane Savant
 1 Archangel Avacyn
 1 Ash Zealot
-1 Athreos, God of Passage
 1 Avacyn's Pilgrim
-1 Ball Lightning
 1 Banisher Priest
 1 Baral, Chief of Compliance
 1 Battlegrace Angel
 1 Bazaar Trademage
-1 Beanstalk Giant
 1 Biogenic Ooze
 1 Birds of Paradise
 1 Blood Artist
@@ -61,7 +55,6 @@
 1 Boros Reckoner
 1 Brago, King Eternal
 1 Brain Maggot
-1 Bronzebeak Moa
 1 Bronzehide Lion
 1 Burning-Tree Emissary
 1 Burrenton Forge-Tender
@@ -129,7 +122,6 @@
 1 Gonti, Lord of Luxury
 1 Grave Titan
 1 Gravebreaker Lamia
-1 Greenwarden of Murasa
 1 Grim Lavamancer
 1 Griselbrand
 1 Guttersnipe
@@ -137,11 +129,9 @@
 1 Hanweir Militia Captain
 1 Hellrider
 1 Heritage Druid
-1 Hoarding Dragon
 1 Hostage Taker
 1 Hypnotic Specter
 1 Hypnotic Sprite
-1 Illusory Ambusher
 1 Imperial Recruiter
 1 Imposing Sovereign
 1 Inferno Titan
@@ -153,19 +143,14 @@
 1 Keldon Marauders
 1 Keranos, God of Storms
 1 Kiki-Jiki, Mirror Breaker
-1 Kiln Fiend
-1 Kird Ape
 1 Kitchen Finks
 1 Kitesail Freebooter
 1 Knight of Autumn
 1 Knight of the White Orchid
 1 Kokusho, the Evening Star
-1 Kongming, "Sleeping Dragon"
 1 Kraul Harpooner
 1 Kytheon, Hero of Akros
 1 Lightning Skelemental
-1 Liliana's Reaver
-1 Linvala, the Preserver
 1 Llanowar Elves
 1 Looter il-Kor
 1 Lyra Dawnbringer
@@ -198,7 +183,6 @@
 1 Painter's Servant
 1 Palladium Myr
 1 Pestermite
-1 Pharika, God of Affliction
 1 Phoenix of Ash
 1 Phyrexian Ghoul
 1 Phyrexian Obliterator
@@ -226,8 +210,6 @@
 1 Rofellos, Llanowar Emissary
 1 Sakura-Tribe Elder
 1 Savannah Lions
-1 Sawtooth Loon
-1 Scuttlemutt
 1 Seeker of Skybreak
 1 Seeker of the Way
 1 Sensor Splicer
@@ -271,14 +253,12 @@
 1 Verdant Force
 1 Verdurous Gearhulk
 1 Vexing Devil
-1 Vigor
 1 Vilis, Broker of Blood
 1 Voice of Resurgence
 1 Walking Ballista
 1 Wall of Blossoms
 1 Wall of Omens
 1 Watcher for Tomorrow
-1 Wee Dragonauts
 1 Werebear
 1 Whisperwood Elemental
 1 Wild Mongrel
@@ -288,6 +268,11 @@
 1 Worldgorger Dragon
 1 Young Pyromancer
 1 Zealous Conscripts
+1 Uro, Titan of Nature's Wrath
+1 Thassa's Oracle
+1 Alseid of Life's Bounty
+1 Nyxbloom Ancient
+1 Vendilion Clique
 1 Animate Dead
 1 Assemble the Legion
 1 Cast Out
@@ -403,42 +388,56 @@
 1 Urza's Rage
 1 Word of Seizing
 1 Zealous Persecution
+1 Drag to the Underworld
+1 Kolaghan's Command
 1 Azorius Chancery
 1 Blood Crypt
 1 Boros Garrison
 1 Breeding Pool
-1 Clifftop Retreat
 1 Dimir Aqueduct
-1 Dragonskull Summit
-1 Drowned Catacomb
-1 Evolving Wilds
-1 Geier Reach Sanitarium
-1 Glacial Fortress
 1 Godless Shrine
 1 Golgari Rot Farm
 1 Gruul Turf
 1 Hallowed Fountain
-1 Hinterland Harbor
-1 Isolated Chapel
 1 Izzet Boilerworks
 1 Nykthos, Shrine to Nyx
 1 Orzhov Basilica
 1 Overgrown Tomb
 1 Rakdos Carnarium
-1 Rootbound Crag
 1 Sacred Foundry
 1 Selesnya Sanctuary
 1 Simic Growth Chamber
 1 Spire of Industry
 1 Steam Vents
 1 Stomping Ground
-1 Sulfur Falls
-1 Sunpetal Grove
 1 Temple Garden
-1 Terramorphic Expanse
 1 Watery Grave
 1 Westvale Abbey
-1 Woodland Cemetery
+1 Savannah
+1 Bayou
+1 Plateau
+1 Taiga
+1 Tundra
+1 Underground Sea
+1 Tropical Island
+1 Volcanic Island
+1 Badlands
+1 Scrubland
+1 Arid Mesa
+1 Bloodstained Mire
+1 Flooded Strand
+1 Marsh Flats
+1 Polluted Delta
+1 Scalding Tarn
+1 Windswept Heath
+1 Wooded Foothills
+1 Misty Rainforest
+1 Verdant Catacombs
+1 Mishra's Factory
+1 Rishadan Port
+1 Wasteland
+1 Mystic Sanctuary
+1 Mutavault
 1 Arlinn Kord
 1 Ashiok, Nightmare Weaver
 1 Chandra, Flamecaller
@@ -463,11 +462,14 @@
 1 Tamiyo, Collector of Tales
 1 Vivien, Arkbow Ranger
 1 Vraska, Relic Seeker
+1 Teferi, Hero of Dominaria
+1 Angrath, the Flame-Chained
+1 Narset, Parter of Veils
+1 Elspeth, Knight-Errant
 1 Ancestral Vision
 1 Anger of the Gods
 1 Armageddon
 1 Banefire
-1 Battle Screech
 1 Bonfire of the Damned
 1 Breakthrough
 1 Buried Alive
@@ -487,7 +489,6 @@
 1 Exquisite Firecraft
 1 Faithless Looting
 1 Fight with Fire
-1 Final Parting
 1 Finale of Devastation
 1 Finale of Eternity
 1 Fireball
@@ -521,7 +522,6 @@
 1 Roast
 1 Search for Tomorrow
 1 Show and Tell
-1 Sram's Expertise
 1 Strategic Planning
 1 Stupor
 1 Supreme Verdict
