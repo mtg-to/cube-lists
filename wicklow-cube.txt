@@ -91,7 +91,6 @@
 1 Counterspell
 1 Craterhoof Behemoth
 1 Crop Rotation
-1 Crusade
 1 Cryptbreaker
 1 Cryptic Command
 1 Crystal Shard
@@ -193,6 +192,7 @@
 1 Gifts Ungiven
 1 Giver of Runes
 1 Glimmerpoint Stag
+1 Glorious Anthem
 1 Glorybringer
 1 Goblin Dark-Dwellers
 1 Goblin Electromancer
@@ -231,6 +231,7 @@
 1 Honor of the Pure
 1 Hornet Queen	
 1 Hostage Taker
+1 Huntmaster of the Fells
 1 Hymn to Tourach
 1 Hypnotic Specter
 1 Imperial Recruiter
@@ -285,6 +286,7 @@
 1 Marwyn, the Nurturer
 1 Mass Manipulation
 1 Master Splicer
+1 Mayor of Avabruck
 1 Melira, Sylvok Outcast
 1 Memory Lapse
 1 Mentor of the Meek
@@ -504,7 +506,6 @@
 1 Uro, Titan of Nature's Wrath
 1 Vedalken Shackles
 1 Vendilion Clique
-1 Venerated Loxodon
 1 Venser, Shaper Savant
 1 Verdant Catacombs
 1 Verdant Force
@@ -529,7 +530,6 @@
 1 Wild Mongrel
 1 Windbrisk Heights
 1 Windswept Heath
-1 Wingmate Roc
 1 Wirewood Symbiote
 1 Wooded Foothills
 1 Word of Seizing

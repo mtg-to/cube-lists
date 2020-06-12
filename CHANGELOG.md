@@ -82,3 +82,18 @@
  1. Urza's Rage
  1. Vilis, Broker of Blood
 
+
+## Update 2020-06-12
+
+### Additions:
+
+ 1. Glorious Anthem
+ 1. Huntmaster of the Fells
+ 1. Mayor of Avabruck
+
+### Removals:
+
+ 1. Crusade
+ 1. Venerated Loxodon
+ 1. Wingmate Roc
+
