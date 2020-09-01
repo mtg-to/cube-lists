@@ -2,11 +2,11 @@
 1 Abrupt Decay
 1 Acidic Slime
 1 Adanto Vanguard	
-1 Advent of the Wurm
 1 Aetherling
 1 Agent of Treachery
 1 Alseid of Life's Bounty
 1 Altar of Dementia
+1 Anafenza, Kin-Tree Spirit
 1 Ancestral Vision
 1 Angel of Invention
 1 Angel of Sanctions
@@ -44,7 +44,6 @@
 1 Blood Artist
 1 Bloodbraid Elf
 1 Blood Crypt
-1 Bloodghast
 1 Bloodstained Mire
 1 Bloodthrone Vampire
 1 Bomat Courier
@@ -106,6 +105,7 @@
 1 Desecration Demon
 1 Detention Sphere
 1 Devil's Play
+1 Devoted Druid
 1 Devouring Light
 1 Dig Through Time
 1 Dimir Aqueduct
@@ -145,7 +145,6 @@
 1 Evolutionary Leap
 1 Exclude
 1 Exhume
-1 Exquisite Firecraft
 1 Fact or Fiction
 1 Faeburrow Elder
 1 Fae of Wishes
@@ -241,7 +240,6 @@
 1 Ingenious Infiltrator
 1 Inquisition of Kozilek
 1 Insult // Injury
-1 Intangible Virtue
 1 Intuition
 1 Isochron Scepter
 1 Izzet Boilerworks
@@ -265,7 +263,6 @@
 1 Kokusho, the Evening Star
 1 Kolaghan's Command
 1 Koth of the Hammer	
-1 Kozilek's Return
 1 Kraul Harpooner
 1 Kytheon, Hero of Akros
 1 Legion's Landing
@@ -293,6 +290,7 @@
 1 Merfolk Looter
 1 Mesmeric Fiend
 1 Midnight Haunting
+1 Mikaeus, the Unhallowed
 1 Militia Bugler
 1 Mind Stone
 1 Mind Twist
@@ -384,6 +382,7 @@
 1 Remand
 1 Remorseful Cleric
 1 Restoration Angel
+1 Reveillark
 1 Rewind
 1 Rift Bolt
 1 Riftwing Cloudskate
@@ -416,7 +415,6 @@
 1 Shelldock Isle
 1 Sheoldred, Whispering One
 1 Show and Tell
-1 Siege-Gang Commander
 1 Signal Pest	
 1 Simic Growth Chamber
 1 Simic Signet
@@ -482,7 +480,6 @@
 1 Tidespout Tyrant
 1 Timely Reinforcements
 1 Time Warp
-1 Tinker
 1 Tireless Tracker
 1 Tooth and Nail
 1 Torrential Gearhulk
@@ -510,10 +507,12 @@
 1 Verdant Catacombs
 1 Verdant Force
 1 Verdurous Gearhulk
+1 Vesperlark
 1 Vexing Devil
 1 Victimize
 1 Vindicate
 1 Vivien, Arkbow Ranger
+1 Vizier of Remedies
 1 Voice of Resurgence
 1 Volcanic Island
 1 Vraska, Relic Seeker
@@ -530,6 +529,7 @@
 1 Wild Mongrel
 1 Windbrisk Heights
 1 Windswept Heath
+1 Wirewood Lodge
 1 Wirewood Symbiote
 1 Wooded Foothills
 1 Word of Seizing

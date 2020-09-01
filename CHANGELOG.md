@@ -97,3 +97,26 @@
  1. Venerated Loxodon
  1. Wingmate Roc
 
+
+## Update 2020-09-01
+
+### Additions:
+
+ 1. Anafenza, Kin-Tree Spirit
+ 1. Devoted Druid
+ 1. Mikaeus, the Unhallowed
+ 1. Reveillark
+ 1. Vesperlark
+ 1. Vizier of Remedies
+ 1. Wirewood Lodge
+
+### Removals:
+
+ 1. Advent of the Wurm
+ 1. Bloodghast
+ 1. Exquisite Firecraft
+ 1. Intangible Virtue
+ 1. Kozilek's Return
+ 1. Siege-Gang Commander
+ 1. Tinker
+
